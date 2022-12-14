@@ -12,6 +12,14 @@ En Español:
 - 💞️ Estoy buscando colaborar en el desarrollo de sistemas web
 - 📫 ¿Como contactarme? Enviame un email a lorena.natali18@gmail.com o a traves de linkedin https://www.linkedin.com/in/lorena-natali-gomez/
 
+Sitios web realizados utilizando tecnologias como HTML, CSS, JavaScript, Boostrap:
+- Pagina institucional de un Estudio Juridico: https://lorenang.github.io/estudiojuridico.github.io/
+- AppList:
+- Appeperia: https://lorenang.github.io/apeperiaweb.github.io/
+- Store: https://lorenang.github.io/alurastore.github.io/
+- Juego del Ahorcado: https://lorenang.github.io/ahorcado.github.io/
+- Juego Encriptador: https://lorenang.github.io/encriptador.github.io/
+
 <!---
 lorenang/lorenang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
