@@ -13,6 +13,8 @@ En Español:
 - 📫 ¿Como contactarme? Enviame un email a lorena.natali18@gmail.com o a traves de linkedin https://www.linkedin.com/in/lorena-natali-gomez/
 
 Sitios web realizados utilizando tecnologias como HTML, CSS, JavaScript, Boostrap:
+- Sistema de Gestion Academica: https://github.com/lorenang/gestionacademica
+- Portfolio: https://github.com/lorenang/gestionacademica
 - Pagina institucional de un Estudio Juridico: https://lorenang.github.io/estudiojuridico.github.io/
 - AppList: https://lorenang.github.io/appList.github.io/
 - Appeperia: https://lorenang.github.io/apeperiaweb.github.io/
