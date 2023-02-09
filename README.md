@@ -12,6 +12,9 @@ En Español:
 - 💞️ Estoy buscando colaborar en el desarrollo de sistemas web
 - 📫 ¿Como contactarme? Enviame un email a lorena.natali18@gmail.com o a traves de linkedin https://www.linkedin.com/in/lorena-natali-gomez/
 
+QA:
+- https://github.com/lorenang/QA-con-Selenium-y-Rubi
+
 Sitios web realizados utilizando tecnologias como HTML, CSS, JavaScript, Boostrap:
 - Sistema de Gestion Academica: https://github.com/lorenang/gestionacademica
 - Portfolio: https://github.com/lorenang/gestionacademica
